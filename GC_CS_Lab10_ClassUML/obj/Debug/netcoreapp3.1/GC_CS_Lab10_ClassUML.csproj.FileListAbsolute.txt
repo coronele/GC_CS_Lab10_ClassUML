@@ -1,0 +1,11 @@
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\obj\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.csprojAssemblyReference.cache
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\obj\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.AssemblyInfoInputs.cache
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\obj\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.AssemblyInfo.cs
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\bin\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.exe
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\bin\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.deps.json
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\bin\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.runtimeconfig.json
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\bin\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.runtimeconfig.dev.json
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\bin\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.dll
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\bin\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.pdb
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\obj\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.dll
+C:\Users\coronele\source\repos\GC_CS_Lab10_ClassUML\GC_CS_Lab10_ClassUML\obj\Debug\netcoreapp3.1\GC_CS_Lab10_ClassUML.pdb
